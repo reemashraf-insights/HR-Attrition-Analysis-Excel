@@ -1,8 +1,8 @@
 # 👨‍💼 HR Attrition Analysis (Excel Dashboard)
 
-An interactive Excel dashboard designed to analyze employee attrition and uncover the key factors driving employee turnover.
+An interactive Excel dashboard designed to analyze employee attrition and identify the key drivers of workforce turnover.
 
-This project demonstrates my ability to transform HR data into actionable insights and identify the root causes behind employee attrition.
+This project demonstrates my ability to transform HR data into actionable insights and uncover the root causes behind employee attrition.
 
 ---
 
@@ -31,14 +31,15 @@ The goal of this project is to analyze employee data to understand why employees
 
 ## 📈 Key Insights
 
-* Employees with low job satisfaction are significantly more likely to leave the company.
-* Overtime is a major driver of attrition, with employees working extra hours showing higher turnover rates.
-* Younger employees (early career stage) tend to leave more frequently than experienced employees.
-* Employees with lower salary levels have a higher likelihood of attrition, indicating compensation impact.
-* Lack of promotion over time increases employee turnover risk.
-* Employees with shorter tenure with their manager are more likely to leave, highlighting the importance of early management experience.
+* Low job satisfaction is the primary driver of employee attrition, significantly increasing the likelihood of turnover.
+* Overtime has a strong impact on attrition, with employees working extra hours showing higher turnover rates.
+* Employees with lower salary levels are more likely to leave, indicating compensation plays a key role in retention.
+* Younger employees (early career stage) tend to leave more frequently compared to more experienced employees.
+* Lack of promotion over time increases the risk of employee turnover, highlighting limited career growth opportunities.
+* Employees with shorter tenure with their manager are more likely to leave, emphasizing the importance of early management relationships.
+  
 
-These insights help organizations reduce employee turnover, improve retention strategies, and build a more stable workforce.
+These insights highlight the key factors influencing employee turnover and provide a foundation for improving retention strategies.
 
 ---
 
