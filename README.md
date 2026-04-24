@@ -25,7 +25,7 @@ The goal of this project is to analyze employee data to understand why employees
 
 ![Dashboard](https://github.com/reemashraf-insights/HR-Attrition-Analysis-Excel/blob/main/IBM%20HR%20Analytics%201.png)
 
-![Dashboard]()
+![Dashboard](https://github.com/reemashraf-insights/HR-Attrition-Analysis-Excel/blob/main/IBM%20HR%20Analytics%202.png)
 
 ---
 
