@@ -38,6 +38,8 @@ The goal of this project is to analyze employee data to understand why employees
 * Lack of promotion over time increases employee turnover risk.
 * Employees with shorter tenure with their manager are more likely to leave, highlighting the importance of early management experience.
 
+These insights help organizations reduce employee turnover, improve retention strategies, and build a more stable workforce.
+
 ---
 
 ## 💡 Recommendations
